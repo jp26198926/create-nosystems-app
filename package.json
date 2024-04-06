@@ -1,0 +1,21 @@
+{
+  "name": "@jp26198926/create-nosystems-app",
+  "version": "1.0.0",
+  "description": "Create Boilerplate Applicataion",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npx husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp26198926/create-nosystems-app.git"
+  },
+  "author": "Jaypee Hindang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp26198926/create-nosystems-app/issues"
+  },
+  "homepage": "https://github.com/jp26198926/create-nosystems-app#readme"
+}
